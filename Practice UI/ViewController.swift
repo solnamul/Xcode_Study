@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController {
     
     let friendNames: [String] = ["Sol", "Sam", "Joy"]
-    let koreanNames: [String: String] = ["Sol": "솔", "Sam": "샘", "Joy": "조이"]
+    let koreanNames: [String: String] = ["Sol": "솔", "Sam": "셈", "Joy": "조이"]
     var count: Int = 0
     
     
